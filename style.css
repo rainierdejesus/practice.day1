@@ -1,0 +1,28 @@
+#box1{
+	border: 2px solid rgba(119, 74, 142, 0.5);
+	vertical-align: center;
+	height: 50%;
+	width: 50%;
+	line-height: 50px;
+	text-align: center;
+	font-family: 'Gugi', cursive;
+}
+#box2{
+	border: 2px solid rgba(119, 74, 142, 0.5);
+	vertical-align: center;
+	height: 50%;
+	width: 50%;
+	line-height: 50px;
+	text-align: center;
+	font-family: 'Merriweather', serif;
+}
+#box3{
+	border: 2px solid black;
+	border: 2px solid rgba(119, 74, 142, 0.5);
+	vertical-align: center;
+	height: 50%;
+	width: 50%;
+	line-height: 50px;
+	text-align: center;
+	font-family: 'Roboto Slab', serif;
+}
